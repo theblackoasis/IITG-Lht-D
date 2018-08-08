@@ -12,6 +12,6 @@ Main sever is hosted on: **172.16.115.145**
 ### SSH login into server
 ```ssh 172.16.115.145 -l vaibhav```
 
-###main files are hosted in ```/home/vaibhav/Desktop/fuel```
+### main files are hosted in    ```/home/vaibhav/Desktop/fuel```
 
 
